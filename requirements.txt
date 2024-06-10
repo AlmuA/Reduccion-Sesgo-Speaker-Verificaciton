@@ -1,0 +1,12 @@
+torch>=1.7.0
+torchaudio>=0.7.0
+torchviz
+scikit-learn
+scipy
+numpy
+asteroid_filterbanks==0.4.0
+tqdm
+pyyaml
+soundfile
+h5py
+numpy
